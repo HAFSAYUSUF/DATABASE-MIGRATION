@@ -1,9 +1,6 @@
 Name: HAFSA Y COMPANY:CODETECH IT SOLUTIONS DOMAIN:SQL DURATION:DECEMBER TO JANUARY
 # DATABASE-MIGRATION
 
-Here’s a **README.md** file tailored for GitHub submission:
-
----
 
 ### **README.md**
 
